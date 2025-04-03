@@ -1,0 +1,8 @@
+[submodule "sprinter-be"]
+	path = sprinter-be
+	url = https://github.com/nl-sprinter/sprinter-be.git
+	branch = main
+[submodule "sprinter-fe"]
+	path = sprinter-fe
+	url = https://github.com/nl-sprinter/sprinter-fe.git
+	branch = main
